@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "moin"
+date:   2024-10-22 22:25:50 +0200
+categories: blog
+---
+dies ist der start eines kleinen projektes. willkommen
