@@ -1,0 +1,25 @@
+.photo-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    justify-content: center;
+  }
+  
+  .photo-gallery figure {
+    margin: 0;
+    text-align: left;
+  }
+  
+  .photo-gallery img {
+    max-width: 25%;
+    height: auto;
+    border: 10px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .photo-gallery figcaption {
+    margin-top: 8px;
+    font-size: 14px;
+    color: #555;
+  }
+  
